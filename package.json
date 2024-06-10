@@ -1,0 +1,30 @@
+{
+  "name": "common-validation",
+  "version": "1.0.0",
+  "description": "Simple js library to common string validation",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "validation",
+    "string-validation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KavindiDev/common-validation-js.git"
+  },
+  "author": "Dewmini Thakshila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KavindiDev/common-validation-js/issues"
+  },
+  "homepage": "https://github.com/KavindiDev/common-validation-js#readme",
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.4.5"
+  }
+}
