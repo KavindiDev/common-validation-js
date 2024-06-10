@@ -1,5 +1,5 @@
 {
-  "name": "common-validation",
+  "name": "common-validations",
   "version": "1.0.0",
   "description": "Simple js library to common string validation",
   "main": "./dist/index.js",
